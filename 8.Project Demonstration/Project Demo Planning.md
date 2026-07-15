@@ -21,5 +21,3 @@
 If the Gemini API is unreachable during the live demo (network restrictions, quota), the rule-based fallback ensures the negotiation-letter feature still works without any visible failure.
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
