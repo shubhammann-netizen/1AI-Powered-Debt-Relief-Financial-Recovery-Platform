@@ -28,5 +28,3 @@ The platform ships 9 core functional features across authentication, financial a
 - Automatic API documentation via FastAPI's /docs endpoint.
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
