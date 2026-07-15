@@ -26,5 +26,3 @@ Course instructor / evaluation panel, unfamiliar with the internal implementatio
 Lead with the borrower's problem before showing any code, so the evaluation panel understands why each feature (priority sorting, settlement prediction, negotiation letters) exists before seeing how it is implemented.
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
