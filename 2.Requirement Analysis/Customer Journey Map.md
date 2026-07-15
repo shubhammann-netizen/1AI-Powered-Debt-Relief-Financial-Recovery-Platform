@@ -31,4 +31,3 @@ The History page lets the borrower revisit every past AI-generated strategy and 
 
 ---
 
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
