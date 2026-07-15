@@ -5,20 +5,36 @@
 
 ---
 
-## Project Owner & Developer
+## Project Developers
 
-Sivamanikanta Maddineni (AP24110010763) — designed the ER model, implemented the FastAPI backend (authentication, financial engine, settlement engine, AI negotiation engine), built the React frontend, authored the project documentation set, and prepared the GitHub repository structure and demo plan.
+### G Suresh Yadav (AP24122230018)
+- Designed and implemented the ER model and database architecture.
+- Developed backend modules including authentication, financial engine, settlement prediction engine, and AI negotiation engine.
+- Contributed to frontend integration and dashboard functionalities.
+- Prepared project documentation and GitHub repository structure.
+
+### Shubham Mann (AP24110011487)
+- Assisted in frontend development and user interface implementation.
+- Contributed to testing, debugging, and performance optimization.
+- Participated in documentation, project demonstration planning, and feature validation.
+- Assisted in deployment preparation and repository management.
 
 ## Demonstration Responsibilities
 
-- Live walkthrough of the application end-to-end
-- Explaining the fallback logic for AI reliability
-- Answering architecture and design-decision questions
+- Live walkthrough of the application end-to-end.
+- Explaining the AI-powered settlement prediction and negotiation strategy generation.
+- Demonstrating the fallback logic for AI reliability.
+- Answering architecture, database design, and implementation questions.
 
 ## Contact
 
-sivamanikanta_maddineni@srmap.edu.in
+**G Suresh Yadav**  
+Email: suresh_gandu@srmap.edu.in
+
+**Shubham Mann**  
+Email: Shubham_mann@srmap.edu.in
 
 ---
 
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
+*Prepared by G Suresh Yadav | AP24122230018 | suresh_gandu@srmap.edu.in*  
+*Prepared by Shubham Mann | AP24110011487 | Shubham_mann@srmap.edu.in*
