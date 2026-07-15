@@ -1,13 +1,15 @@
 # FinRelief AI — AI Powered Debt Relief & Financial Recovery Platform
 
-FinRelief AI is a full-stack web platform that helps borrowers understand their
-financial health, predicts realistic loan settlement amounts, and uses
-Google's Gemini API (with an automatic rule-based fallback) to generate
-personalized negotiation strategies and lender-ready settlement letters.
+FinRelief AI is a full-stack web platform that helps borrowers understand their financial health, predicts realistic loan settlement amounts, and uses Google's Gemini API (with an automatic rule-based fallback) to generate personalized negotiation strategies and lender-ready settlement letters.
 
-**Author:** Sivamanikanta Maddineni
-**Student ID:** AP24110010763
-**Email:** sivamanikanta_maddineni@srmap.edu.in
+**Authors:**  
+**G Suresh Yadav**  
+Student ID: AP24122230018  
+Email: suresh_gandu@srmap.edu.in  
+
+**Shubham Mann**  
+Student ID: AP24110011487  
+Email: Shubham_mann@srmap.edu.in
 
 ---
 
