@@ -25,4 +25,3 @@ Extend FinRelief AI from a single-borrower self-service tool into a broader fina
 
 ---
 
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
