@@ -35,5 +35,3 @@ Loan + Financial_Profile + Settlement data -> ai_engine.py -> Gemini API call (o
 See the entity-relationship structure in the ER Diagram summary referenced from the project workspace (FinRelief ER Diagram).
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
