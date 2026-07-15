@@ -21,5 +21,3 @@
 Each functional requirement traces directly to a specific backend module and frontend page, ensuring no pain point identified in the Empathy Map is left unaddressed by the shipped feature set.
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
