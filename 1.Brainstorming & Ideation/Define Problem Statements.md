@@ -29,4 +29,4 @@ Existing personal-finance tools track spending but do not connect financial heal
 
 ---
 
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
+*Prepared by G Suresh Yadav (AP24122230018, suresh_gandu@srmap.edu.in) and Shubham Mann (AP24110011487, Shubham_mann@srmap.edu.in)*
