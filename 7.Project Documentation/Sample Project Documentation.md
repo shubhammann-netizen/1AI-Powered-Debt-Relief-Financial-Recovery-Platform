@@ -39,5 +39,3 @@ To give individual borrowers a self-serve, AI-assisted way to understand their f
 See `Requirement Analysis/Data Flow Diagram.md` for the full data flow and `Project Design Phase/Solution Architecture.md` for the system architecture.
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
