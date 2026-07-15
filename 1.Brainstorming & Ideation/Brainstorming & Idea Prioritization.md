@@ -27,4 +27,5 @@ FinRelief AI: a web platform that stores a borrower's loans and financial profil
 
 ---
 
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
+*Prepared by G Suresh Yadav | AP24122230018 | suresh_gandu@srmap.edu.in*  
+*Prepared by Shubham Mann | AP24110011487 | Shubham_mann@srmap.edu.in*
