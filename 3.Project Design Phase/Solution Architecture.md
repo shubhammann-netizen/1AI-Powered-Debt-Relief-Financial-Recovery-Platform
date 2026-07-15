@@ -27,5 +27,3 @@ Passwords are hashed with Werkzeug before storage. All protected endpoints requi
 The backend can be containerized and deployed behind any ASGI server (uvicorn/gunicorn); the frontend builds to static assets deployable to any static host or CDN; SQLite can be swapped for PostgreSQL by changing DATABASE_URL only.
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
