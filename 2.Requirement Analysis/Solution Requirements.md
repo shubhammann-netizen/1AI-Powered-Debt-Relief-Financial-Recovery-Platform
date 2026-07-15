@@ -25,6 +25,4 @@
 - Usability: a responsive, dark-themed interface usable on desktop and mobile.
 - Portability: the SQLAlchemy data layer allows swapping SQLite for PostgreSQL or another RDBMS with minimal code changes.
 
----
 
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
