@@ -23,5 +23,3 @@ The backend/app package separates concerns into single-responsibility modules: d
 - CSS uses named custom properties (--bg-primary, --accent, etc.) instead of hard-coded colors scattered through component styles.
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
