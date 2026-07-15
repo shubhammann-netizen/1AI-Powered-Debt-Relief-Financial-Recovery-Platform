@@ -20,5 +20,3 @@
 To demonstrate resilience, the demo can be run with no GEMINI_API_KEY configured — the negotiation letter is still generated instantly via the rule-based fallback engine, proving the platform degrades gracefully.
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
