@@ -46,5 +46,3 @@
 - A ready-to-send negotiation letter and a plain-language explanation of the strategy
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
