@@ -26,5 +26,3 @@ generate_negotiation_package() first attempts a Gemini API call with a structure
 Built with React function components and hooks (useState, useEffect). Each dashboard page fetches its own data via the shared Axios client and renders it inside reusable Card components with a consistent dark theme.
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
