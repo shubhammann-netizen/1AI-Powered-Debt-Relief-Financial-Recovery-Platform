@@ -24,5 +24,3 @@ Performance testing focused on backend responsiveness, database concurrency, aut
 - Introduce a request timeout and retry policy around the Gemini API call.
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
