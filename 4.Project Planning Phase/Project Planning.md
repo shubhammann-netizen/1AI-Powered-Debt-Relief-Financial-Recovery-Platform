@@ -27,5 +27,3 @@ Approximately 17.5 hours across all six epics, tracked story-by-story in the pro
 Backend environment and database models were built first since every later feature (financial engine, settlement engine, AI engine) depends on the ORM models and API scaffolding being in place.
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
