@@ -26,5 +26,3 @@ Borrowers get an end-to-end, self-serve debt-recovery workflow — from understa
 Unlike static calculators or generic chatbots, FinRelief AI ties financial analysis directly to a generated, ready-to-send negotiation letter, and remains functional even without live AI access via its rule-based fallback engine.
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
