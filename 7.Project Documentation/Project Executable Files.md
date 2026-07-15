@@ -27,5 +27,3 @@ Programmes and Codes/scripts/seed_demo_data.py — optional script that seeds a 
 See the root README.md for the complete step-by-step setup for both the backend and frontend.
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
