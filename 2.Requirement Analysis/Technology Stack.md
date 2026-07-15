@@ -31,5 +31,3 @@
 - Python venv — dependency isolation
 
 ---
-
-*Prepared by Sivamanikanta Maddineni | AP24110010763 | sivamanikanta_maddineni@srmap.edu.in*
