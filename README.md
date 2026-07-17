@@ -20,37 +20,43 @@ full-stack web application.
 
 ## Project Structure
 ```
-FinReliefAI/
-├── app/                          # FastAPI backend
-│   ├── main.py                   # App entrypoint
-│   ├── database.py               # SQLAlchemy engine/session
-│   ├── models/                   # ORM models (ER diagram entities)
-│   ├── schemas/                  # Pydantic request/response schemas
-│   ├── core/                     # Business logic
-│   │   ├── auth.py               # JWT + password hashing
-│   │   ├── financial_engine.py   # EMI/DTI ratios, stress classification
-│   │   ├── settlement_engine.py  # Settlement prediction logic
-│   │   └── ai_engine.py          # Gemini integration + fallback
-│   └── routers/                  # REST API endpoints
-├── frontend/                     # React + Vite frontend
-│   └── src/
-│       ├── pages/                # Login, Dashboard, Predictor, etc.
-│       ├── api/client.js         # Axios instance with JWT interceptor
-│       └── App.jsx               # App shell & navigation
-├── docs/                         # Full project documentation
-│   ├── 01_Brainstorming_and_Ideation/
-│   ├── 02_Requirement_Analysis/
-│   ├── 03_Project_Design_Phase/
-│   ├── 04_Project_Planning_Phase/
-│   ├── 05_Project_Development_Phase/
-│   ├── 06_Project_Testing/
-│   ├── 07_Project_Documentation/
-│   └── 08_Project_Demonstration/
-├── requirements.txt
-├── .env.example
-├── .gitignore
-└── README.md
+FinReliefAI-Project/
+├── README.md                          <- you are here
+├── Brainstorming & Ideation/           <- ideation & problem framing docs
+├── Requirement Analysis/               <- customer journey, DFD, requirements, stack
+├── Project Design Phase/               <- problem-solution fit & architecture
+├── Project Planning Phase/             <- sprint/task planning
+├── Project Development Phase/          <- code layout & feature-completion notes
+├── Project Testing/                    <- performance & QA testing notes
+├── Project Documentation/              <- executables list & sample docs
+├── Project Demonstration/              <- demo planning & scalability notes
+└── Codes/
+    ├── backend/                        <- FastAPI application (source of truth for the API)
+    │   ├── app/
+    │   │   ├── main.py                 <- FastAPI app & router registration
+    │   │   ├── database.py             <- SQLAlchemy engine/session
+    │   │   ├── models.py               <- ORM models (Users, Loans, Financial_Profiles, ...)
+    │   │   ├── schemas.py              <- Pydantic request/response schemas
+    │   │   ├── auth.py                 <- JWT + password hashing
+    │   │   ├── financial_engine.py     <- EMI/DTI ratios, stress level, loan priority
+    │   │   ├── settlement_engine.py    <- settlement % and priority prediction
+    │   │   ├── ai_engine.py            <- Gemini negotiation generator + fallback
+    │   │   └── routers/                <- auth, loans, financial, settlement, negotiation, history
+    │   ├── requirements.txt
+    │   └── .env.example
+    ├── frontend/                       <- React + Vite dashboard
+    │   ├── src/
+    │   │   ├── pages/                  <- Login, Register, Dashboard, Settlement Predictor,
+    │   │   │                              Negotiation Email, Know Your Rights, History
+    │   │   ├── components/             <- Navbar, Card
+    │   │   ├── api/axios.js            <- JWT-aware Axios instance
+    │   │   └── styles/index.css        <- dark-themed UI
+    │   ├── package.json
+    │   └── .env.example
+    └── scripts/
+        └── seed_demo_data.py           <- populates demo borrower/loans for a quick demo
 ```
+
 
 ## ER Diagram Summary
 Five entities: **Users**, **Loans**, **Financial_Profiles**,
