@@ -40,7 +40,7 @@ FinReliefAI-Project/
 ├── Project Testing/                    <- performance & QA testing notes
 ├── Project Documentation/              <- executables list & sample docs
 ├── Project Demonstration/              <- demo planning & scalability notes
-└── Programmes and Codes/
+└── Codes/
     ├── backend/                        <- FastAPI application (source of truth for the API)
     │   ├── app/
     │   │   ├── main.py                 <- FastAPI app & router registration
